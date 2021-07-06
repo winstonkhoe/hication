@@ -1,4 +1,4 @@
-# flutter_training
+# [Mountain | Nature] [Hiking | Travel] [Booking | Review] Mobile Application
 
 A new Flutter project.
 
